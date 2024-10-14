@@ -14,7 +14,7 @@ class App extends Component{
     <Text>Meu primeiro App</Text>
       <Text style={{color:'#FF0000' ,fontSize: 25, margin: 15}}>loco bem loco</Text>
         <Text style={{color:'#FF0000' ,fontSize: 25, margin: 15}}>{nome}</Text>
-        <Guts Largura={180} Altura={300} fulano="Puto!"/>
+        <Guts Largura={180} Altura={300} fulano="Guts!"/>
         </View>
     );
   }
