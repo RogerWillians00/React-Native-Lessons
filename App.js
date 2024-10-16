@@ -16,10 +16,10 @@ class App extends Component{
   render(){
     return(
       <View style={{ marginTop: 40 }}>
-    <Text style={{fontSize: 24, color: 'red', textAlign: 'center'}}>
-      {this.state.nome}
-      </Text>
-      <Button title="Entrar" onPress={ ()=> this.entrar('erro ao entrar')}/>
+        <Text>Eu sou Texto 1</Text>
+        <Text>Eu sou Texto 2</Text>
+        <Text>Eu sou Texto 3</Text>
+        <Text>Eu sou Texto 4</Text>
     </View>
     );
   }
