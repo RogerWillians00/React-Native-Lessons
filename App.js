@@ -9,7 +9,7 @@ class App extends Component{
 
     return(
       <View>
-    <Text>Ola Porra!</Text>
+    <Text>Ola Mundo!</Text>
    
     <Text>Meu primeiro App</Text>
       <Text style={{color:'#FF0000' ,fontSize: 25, margin: 15}}>loco bem loco</Text>
