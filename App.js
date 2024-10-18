@@ -74,11 +74,12 @@ const styles = StyleSheet.create({
   container:{
     flex:1,
     alignItems:'center',
-    justifyContent:'center'
+    justifyContent:'center',
+    backgroundColor:'#fad7f2'
   },
    img:{
-    width:250,
-    height:250
+    width:130,
+    height:280
    },
    textoFrase:{
     fontSize:20,
