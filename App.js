@@ -78,8 +78,8 @@ const styles = StyleSheet.create({
     backgroundColor:'#fad7f2'
   },
    img:{
-    width:130,
-    height:280
+    width:120,
+    height:300
    },
    textoFrase:{
     fontSize:20,
